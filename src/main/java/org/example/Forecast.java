@@ -1,0 +1,12 @@
+package org.example;
+
+import java.util.List;
+
+public class Forecast {
+
+    private List<ForecastDay> forecastday;
+
+    public List<ForecastDay> getForecastday() {
+        return forecastday;
+    }
+}
