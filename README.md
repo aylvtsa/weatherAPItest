@@ -1,4 +1,6 @@
 
+This repository contains a technical test task completed by candidate **Anastasiia Yalovitsa**.
+
 Java console application that gets tomorrow's weather forecast for:
 
 * Chisinau
@@ -19,3 +21,5 @@ It displays:
 Open the project and run `Main.java`.
 
 The API key is included in `Main.java` for simplicity of this test task.
+
+
